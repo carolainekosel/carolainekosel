@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning English, and IT
 - 📫 How to reach me carolainekosel@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i like reading and sociology
+- ⚡ Fun fact: i like reading and learning sociology
 
 <!---
 carolainekosel/carolainekosel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
